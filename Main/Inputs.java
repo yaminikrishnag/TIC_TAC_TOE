@@ -1,4 +1,4 @@
-package com.vinay.tictactoe.Main;
+package com.yamini.tictactoe.Main;
 
 import java.util.Scanner;
 
