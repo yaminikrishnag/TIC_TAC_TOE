@@ -1,10 +1,10 @@
-package com.vinay.tictactoe.Main;
+package com.yamini.tictactoe.Main;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
 /**
- * Created by nams1t on 10/31/2016.
+ * Created by yamini on 10/31/2016.
  */
 public class StartPlay {
     public static int N;
