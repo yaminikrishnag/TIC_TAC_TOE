@@ -1,7 +1,7 @@
-package com.vinay.tictactoe.Main;
+package com.yamini.tictactoe.Main;
 
 /**
- * Created by nams1t on 10/31/2016.
+ * Created by yamini on 10/31/2016.
  */
 public class Levels extends User {
     public void myTurn1(String[][] board, Inputs human)
