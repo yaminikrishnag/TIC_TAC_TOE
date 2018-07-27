@@ -1,14 +1,14 @@
-package com.vinay.tictactoe.Test;
+package com.yamini.tictactoe.Test;
 
-import com.vinay.tictactoe.Main.Inputs;
-import com.vinay.tictactoe.Main.Levels;
-import com.vinay.tictactoe.Main.StartPlay;
+import com.yamini.tictactoe.Main.Inputs;
+import com.yamini.tictactoe.Main.Levels;
+import com.yamini.tictactoe.Main.StartPlay;
 import junit.framework.TestCase;
 import junit.framework.TestSuite;
 import junit.textui.TestRunner;
 
 /**
- * Created by nams1t on 10/31/2016.
+ * Created by yamini on 10/31/2016.
  */
 
 public class PerformTest extends TestCase {
